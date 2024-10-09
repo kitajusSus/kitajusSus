@@ -1,3 +1,2 @@
-## to do list👋 :
-.
+I like using physics and math to do stuff...
 
