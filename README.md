@@ -1,4 +1,4 @@
-I like using physics and math to do stuff...
+>Before you start cooking, you need to get the spices ~ propably R. Feynman
 
 
 
