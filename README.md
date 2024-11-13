@@ -12,7 +12,7 @@
 ## Featured Projects
 
 - **[Nazwa Projektu 1](https://github.com/kitajusSus)**  
-  *Opis projektu 1 - krótki opis, czym się zajmuje projekt.*  
+  *Uwubiś*  aplikacja do ćwiczenia nauki słuchu dla ludzi z implantem sluchowym
   🌟 *python*
 
 
