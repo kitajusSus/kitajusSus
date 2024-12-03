@@ -3,7 +3,7 @@
 # kitajusSus
 **physics student**
 
-📧 kb89219@student.uwb.edu.pl | 📍Warsaw, Poland | [ GitHub](https://github.com/twojlink)
+📧 kb89219@student.uwb.edu.pl | 📍Warsaw, Poland | [ GitHub](https://github.com/kitajuSus)
 
 ---
 
@@ -11,16 +11,12 @@
 
 ## Featured Projects
 
-- **[Nazwa Projektu 1](https://github.com/kitajusSus)**  
-  *Uwubiś*  aplikacja do ćwiczenia nauki słuchu dla ludzi z implantem sluchowym
-  🌟 *python*
-
-
-
----
-
-## Experience
-.
+- **[UWUBIS/ ZAIMPLANTOWANI]([UWUBIS_REPO](https://github.com/kitajusSus/UwuBis-soundhelper))**  
+  *Uwubiś*  Hearing training application for people with an implant. Hearing training application for people with a hearing implant
+  *in progress*
+  
+   -🌟 *python*
+ 
 
 
 ---
