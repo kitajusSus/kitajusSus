@@ -11,7 +11,7 @@
 
 ## Featured Projects
 
-- **[UWUBIS/ ZAIMPLANTOWANI]([UWUBIS_REPO](https://github.com/kitajusSus/UwuBis-soundhelper))**  
+- **[UWUBIS/ ZAIMPLANTOWANI](https://github.com/kitajusSus/UwuBis-soundhelper)**  
   *Uwubiś*  Hearing training application for people with an implant. Hearing training application for people with a hearing implant
   *in progress*
   
