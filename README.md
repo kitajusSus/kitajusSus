@@ -22,7 +22,7 @@
   
    fun project I make in free time, to make python library in zig.
    
-🌟 **zig** , **python**, **cpp (a little bit, but im trying to go without it)**
+  🌟 **zig** , **python**, **cpp (a little bit, but im trying to go without it)**
 
 
 ---
