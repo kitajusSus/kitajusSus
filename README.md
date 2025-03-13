@@ -17,7 +17,7 @@
    🌟 *python*
   
  - **[zig-torch](https://github.com/kitajusSus/zig-torch)**
-*zig-torch* fun project I make in free time, to make python library in zig.
+   *zig-torch* fun project I make in free time, to make python library in zig.
 🌟 **zig** , **python**, **cpp (a little bit, but im trying to go without it)**
 
 
