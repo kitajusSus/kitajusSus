@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           repository: kitajusSus/github-stats
-          path: stats-tool # Pobiera skrypt do osobnego folderu
+          path: stats-tool # 
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -31,7 +31,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           # Uruchomienie skryptu z odpowiednimi argumentami
-          python stats-tool/main.py --user TWOJ_LOGIN --token $GH_TOKEN --output generated
+          python stats-tool/main.py --user kitajusSus --token $GH_TOKEN --output generated
 
       - name: Commit and Push
         run: |
