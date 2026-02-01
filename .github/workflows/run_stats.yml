@@ -8,14 +8,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Twój profil
-        uses: actions/checkout@v3
+      - name: Checkout profile
+        uses: actions/checkout@v4
 
-      - name: Checkout skryptu statystyk
-        uses: actions/checkout@v3
+      - name: Checkout tool
+        uses: actions/checkout@v4
         with:
           repository: kitajusSus/github-stats
-          path: stats-tool # 
+          path: stats-tool
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,7 +30,6 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          # Uruchomienie skryptu z odpowiednimi argumentami
           python stats-tool/main.py --user kitajusSus --token $GH_TOKEN --output generated
 
       - name: Commit and Push
